@@ -1,0 +1,10 @@
+C:\Users\annak\source\repos\OOPDraw\OOPDraw\bin\Debug\OOPDraw.exe.config
+C:\Users\annak\source\repos\OOPDraw\OOPDraw\bin\Debug\OOPDraw.exe
+C:\Users\annak\source\repos\OOPDraw\OOPDraw\bin\Debug\OOPDraw.pdb
+C:\Users\annak\source\repos\OOPDraw\OOPDraw\obj\Debug\OOPDraw.csproj.AssemblyReference.cache
+C:\Users\annak\source\repos\OOPDraw\OOPDraw\obj\Debug\OOPDraw.OOPDraw.resources
+C:\Users\annak\source\repos\OOPDraw\OOPDraw\obj\Debug\OOPDraw.Properties.Resources.resources
+C:\Users\annak\source\repos\OOPDraw\OOPDraw\obj\Debug\OOPDraw.csproj.GenerateResource.cache
+C:\Users\annak\source\repos\OOPDraw\OOPDraw\obj\Debug\OOPDraw.csproj.CoreCompileInputs.cache
+C:\Users\annak\source\repos\OOPDraw\OOPDraw\obj\Debug\OOPDraw.exe
+C:\Users\annak\source\repos\OOPDraw\OOPDraw\obj\Debug\OOPDraw.pdb
